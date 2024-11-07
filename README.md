@@ -30,7 +30,7 @@
 
 1. [出国深造-PhD](3-future/1-1-abroad-PhD.md)
 2. [出国深造-Master-in progress...]()
-2. [国内升学-in progress...]()
+2. [国内升学](3-future/2-domestic-study.md)
 3. [本科就业-in progress...]()
 
 ## Ⅴ 经验分享篇
