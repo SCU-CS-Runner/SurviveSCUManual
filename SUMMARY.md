@@ -39,6 +39,7 @@
 1. [深造还是工作？关于读研的劝退](4-experience-sharing/2-work-or-study.md)
 2. [一些关于PhD的理解误区](4-experience-sharing/3-PhD.md)
 3. [从OR到商科再到CS：学术道路的选择](4-experience-sharing/4-BusinessCS.md)
+4. [WhileBug的个人经历分享-TBD]()
 
 
 ## Ⅵ 杂项
