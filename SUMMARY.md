@@ -18,8 +18,9 @@
 8. [外专业的同学如何转专业到计软网？转过来后如何适应](1-save-self/14-transfer-major.md)
 9. [AI算法类实习经验指北](1-save-self/16-ai-internship.md)
 10. [System类实习经验指北](1-save-self/17-system-internship.md)
-11. [Deep Dive to OCW](1-save-self/18-deep-dive-to-ocw.md)
-12. [不转专业，坏处到底在哪？](1-save-self/19-if-not-cs.md)
+11. [PLSE科普及科研实习指北](1-save-self/20-PLSE.md)
+12. [Deep Dive to OCW](1-save-self/18-deep-dive-to-ocw.md)
+13. [不转专业，坏处到底在哪？](1-save-self/19-if-not-cs.md)
 
 ## Ⅲ 生存篇
 
@@ -29,7 +30,7 @@
 ## Ⅳ 未来篇
 
 1. [出国深造-PhD](3-future/1-1-abroad-PhD.md)
-2. [出国深造-in progress...]()
+2. [出国深造-Master-in progress...]()
 2. [国内升学](3-future/2-domestic-study.md)
 4. [本科就业-in progress...]()
 
@@ -40,6 +41,7 @@
 2. [一些关于PhD的理解误区](4-experience-sharing/3-PhD.md)
 3. [从OR到商科再到CS：学术道路的选择](4-experience-sharing/4-BusinessCS.md)
 4. [WhileBug的个人经历分享-TBD]()
+5. [英语标化自学经验分享](4-experience-sharing/5-留学标化考试自学指南.md)
 
 
 ## Ⅵ 杂项
